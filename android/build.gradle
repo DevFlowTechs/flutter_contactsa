@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
-
+namespace 'com.example.contacts_service'
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 30
